@@ -3,13 +3,13 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
 Hi, I'm Aashay.
 
-I'm current a Software Developer at EdgeVerve.
+I'm currently a Software Developer at EdgeVerve.
 
 I am interested in the field of Reinforcement Learning and its applications. I love chess, football (soccer), travelling, outdoor activities, board games, music, and, especially, understated humor. 
 
