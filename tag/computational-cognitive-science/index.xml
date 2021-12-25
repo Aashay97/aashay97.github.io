@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Cognitive Science | Aashay Mehta</title>
+    <link>https://aashay97.github.io/tag/computational-cognitive-science/</link>
+      <atom:link href="https://aashay97.github.io/tag/computational-cognitive-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Cognitive Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aashay97.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Cognitive Science</title>
+      <link>https://aashay97.github.io/tag/computational-cognitive-science/</link>
+    </image>
+    
+    <item>
+      <title>Robust Strategy Discovery</title>
+      <link>https://aashay97.github.io/project/strategy-discovery/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://aashay97.github.io/project/strategy-discovery/</guid>
+      <description>&lt;p&gt;The goal of this project was to discover strategies for real-world problems and then teach them to people. Since a human’s perception of the world is inaccurate due to inherent cognitive biases, it would be naive to assume that their description of the decision problem is accurate. What should we do then? Incorporate our knowledge about these biases in our RL algorithms!&lt;/p&gt;
+&lt;p&gt;To that end, I ran experiments to capture potentially erroneous accounts, mathematically modeled the cognitive biases, and employed Bayesian Inference to obtain the posterior distribution of the actual environment structure. I then utilized this posterior to better the strategy-discovery methods. Teaching the resultant strategies to people significantly improved their performance!&lt;/p&gt;
+&lt;p&gt;This project formed my undergraduate thesis under Dr. Falk Lieder at Max Planck Institute for Intelligent Systems, Tuebingen, Germany. More on the project &lt;a href=&#34;https://re.is.mpg.de/research_projects/robust-strategy-discovery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
